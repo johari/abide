@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 puts <<ABIDE
 NDDDDDNNNDDNDDNNDNNNDDDDDNNDNNDDDNNNNNNNDNNDDDDDNDDDDDDDDDDNNNDDNDDNNNNNDNNDDDN8
 NDM..                                                                     . MNN8

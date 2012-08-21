@@ -34,8 +34,8 @@ Gem::Specification.new do |s|
   s.require_paths = %w[lib]
 
   ## This sections is only necessary if you have C extensions.
-  s.require_paths << 'ext'
-  s.extensions = %w[ext/extconf.rb]
+  # s.require_paths << 'ext'
+  # s.extensions = %w[ext/extconf.rb]
 
   ## If your gem includes any executables, list them here.
   s.executables = ["lebascii"]
@@ -62,7 +62,8 @@ Gem::Specification.new do |s|
     LICENSE
     README.md
     Rakefile
-    bin/lebascii.rb
+    abide.gemspec
+    bin/lebascii
     lib/abide.rb
   ]
   # = MANIFEST =
