@@ -1,13 +1,60 @@
-# Abide
+```
+NDDDDDNNNDDNDDNNDNNNDDDDDNNDNNDDDNNNNNNNDNNDDDDDNDDDDDDDDDDNNNDDNDDNNNNNDNNDDDN8
+NDM..                                                                     . MNN8
+NDM..=DDNDDDDD.                                                  ~DDNNDDN8..MDD8
+NNM..=NNNDDNDO                                                   .DNDDDDN8..MDD8
+NDM..=NNNNNDN. .                                                 .DNNNDDN8..MNN8
+DDM..=NNDNNNN                                                    .ONDDNND8..MNN8
+DDM..=NNNNND,                                                      NDDDDD8..MDD8
+NDM..=NNDNNN                                                       =DDDDD8..MDD8
+NNM..=NNDDDN?...                                              .... DDNDDN8..MDD8
+NDM..=NNNDDNDDDDDDNNDDDDNDNNDDNDDD88NDDDDDN88DNDDDNDNDNNDNDNDDDNDDDDNNNND8..MDD8
+DNM..=DDDDDNDDNNNNNDNNNNNDDNNNNNDDDDD.    NDDDNNNNNNDDNNDDDDNNDDDDDDDDDDD8..MDN8
+NDM..=DDDNNNNNNNNDDDDDNNDDDDNNDDDNNNN.    DNDDDDDDDNDDDDNNNNNNNNNNNDNNNNN8..MDD8
+DDM..=DDDDDDDDNNDNNDNNNNNDDDDDDDNDDDD8DDDMDNNNDDDDDDDDDDDDDDNNNNNNNDNNNND8..MDN8
+NNM..=NNNNNNDDDDNNNDNNNNDDDNNNDDNNND .   ..DDDDDDDDNNNDDDNNNNNNNDDDDNNDDD8..MNN8
+DDM..=DDNNNNDDDDNDDDNNNNDDDDNNDDDDD8       ,DDNNDNNNNNDDDDDNDDNNDDDDDDDDN8..MNN8
+NNM..=NNDDDDDDDDDDDNNNDDDDDDNNNNNDD        .MNDDNDDDNNNNDDDDNNNNDNNNNNDDD8..MDN8
+NDM..=NNNNNNNNNNDNNNNNNNDDDDDDNNDD.         .DDDDNNDNNNNNNNDNNNNNDDDDDNND8..MDN8
+DDM..=DDNDDNNNDDDDDDDDDDDDDNDDNN=.            ,NNDDNNNDDNDDDNNDDNDDDNNNND8..MDD8
+DNM..=DDDDN.$NDNDDDNDDDDNNDNN$                   ?NNDNDDDNNDDDNDND  =DNND8..MDN8
+DNM..=DDNN.      ...... .                             ..  ...        NDDN8..MNN8
+NNM..=NNNN.                     I             :                     .NDDD8..MDD8
+NDM..=DDDN?                 ..ZN.             .NN.                  .DDDD8..MNN8
+NNM..=DDDNN.                ...DNN=          DNN+                  .NNDDN8..MDD8
+NNM..=NNDNND..                  . NDDDDDDDDDMI..                  .DNNDDN8..MDD8
+DDM..=DDNNNND.                 .NNDNNNDDNNNNNDD.                 .NNDDDDN8..MDD8
+DNM..=DDNDDDNNZ.              IDNDDDDDDDDNNNDDNNN..             ,DDNNNNND8..MDN8
+DDM..=DDDNNDNNND       .,NDDDDDDDDDDDDDDDDDNDDDDD8NNNNN.     ..NDDNDDDDDN8..MDD8
+DDM..=DDDNNNDDDDD.   NDDDNDNNN,...DNNDNNNDNDD,...ZDNNDDDND. ..NDDNNNDDNND8..MDN8
+NDM..=DDDDDDDDNNDDDDNDNNNNN,                       ,~DDDNNNDNNDDNDDNDDNNN8..MNN8
+NDM..=NNNDDNDDNNNNNDDDNNDD:                          DNNNDDDDDNNDDDDDDNND8..MDD8
+DDM..=NNNDDDDDDDDDDDNNDDNNM.                         DNNNNNDNNDDDDDDNNNND8..MDD8
+NDM..=NNDDDNNNNNNNNNDDDDDNNN .      ..DNN+.         DDDDDDDNDDNNDDDDNNNNN8..MDD8
+NDM..=DDDNNNDDDDDNNDDDNNNDDDD.        .O.        .DDDNNNNDDDNNNNNNNDDDDDD8..MDN8
+DDM..=DDNDDDDDDDNDDDNNDDDDDDDND,..    ...    . .DDNNDDDDNNNDNNDDNNNNDDDDD8..MDD8
+NNM..=NNDDDDDDDDNNNDNNNNDNNDDDNNNNDND=$DZ.NDDNNDNDDDDDDDDNNDNNDDDNNDNNDDD8..MDD8
+NNM..=NNDNNDDDNNDDDDNNDDDNNNNNNNNDDDDDNNDDDNNNNNDNNNNNNNDNNNDDNNNNNDNNDDD8..MNN8
+NDM..=NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN8..MDD8
+NNM..~$$$$$$$$$Z$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Z$$$$$$$$$$$$$$$7..MNN8
+DDM..~$$$$$$$$?......$$$$Z.........,$$$:....Z$,.........$$$$..........ZZ$7..MDN8
+DDM..~$$$$$$$$.... ..$$$$......... ..$$.....$+. .  ......$$:     .....Z$$7..MNN8
+DNM..~$$$$$$I...,....$$$Z   ..$$....~$~....Z$.....$$.. ..Z$.  ..$$$$$$$$$7..MNN8
+NDM..~$$$$$7....$....$$$.   .......$$$.....$=....$$Z.....$:.  ......+$$$$7..MDN8
+DNM..~$$$Z?....$Z....Z$$.   .......7$?   .$$    .$$.....Z$..  . ....$$$$$7..MDN8
+NNM..~$$$7...........ZZ.....ZZ+.   ,$.   .$7    7$Z.....$+....$$$$$$$$$$$7..MNN8
+NNM..~$$I   ....... .Z$............$?....+$.   ...... .$$.         .$$$$$7..MNN8
+NNM..~$7.   +Z$$... .$...........Z$Z.....$?.    ....,$$$=          $$$$$$7..MNN8
+DDM..~$$$$$$$$$$$$$$$$$$$ZZZ$$$$$$$$$$$$$$$$ZZZZZZZ$$$$$$ZZZZZZZZZZ$$$$$$7..MDN8
+NNM........................................................................ MDN8
+NDDDNNNNDDDDNNNNDDDDDDDDDDDDNNNNNNNDDDNNDNNDDDNNNDDDDDNNDDDDNNDDDNNNNNDDNDDNNNN8
+```
+## Ties the room together
 
-## About
+Abide is available via rubygems. Try
 
-A gem that ties the room together
+    $ gem install abide
 
-## Install
-
-    gem install abide
-
-## Usage
+then run
 
     $ lebascii
